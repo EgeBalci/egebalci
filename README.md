@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working in a Switzerland based cybersecurity company named PRODAFT. My main focus areas are malware analysis, threat intelligence and red team adversarial attack simulation. I often share my design and implementation of exploits and tools that can be used in red-team engagements and offensive threat intelligence operations.
+I'm currently working for a Switzerland based cybersecurity company named PRODAFT. My main focus areas are reverse engineering, malware analysis, exploit development, threat intelligence, and red team adversarial attack simulation. I often share my design and implementation of exploits and tools that can be used in red-team engagements and offensive threat intelligence operations.
 
 :notebook: ***Blogs:***
 - https://pentest.blog
