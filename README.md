@@ -2,9 +2,9 @@
 
 I'm currently working for a Switzerland based cybersecurity company named PRODAFT. My main focus areas are reverse engineering, malware analysis, exploit development, threat intelligence, and red team adversarial attack simulation. I often share my design and implementation of exploits and tools that can be used in red-team engagements and offensive threat intelligence operations.
 
-:notebook: ***Blogs:***
+:notebook: ***Blogs & Projects:***
 - https://pentest.blog
-- https://threatintel.blog
+- https://qsocket.io
 
 <p align="center"><img width="50%" src="https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif" /></p>
 
