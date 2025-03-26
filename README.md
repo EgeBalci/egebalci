@@ -29,7 +29,7 @@ I'm currently working for a Switzerland based cybersecurity company named PRODAF
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=egebalci&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&card_width=500" /></p>
 
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egebalci&layout=compact&theme=dark&card_width=1000&hide_border=true&hide=pascal" /></p>
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egebalci&layout=compact&theme=dark&card_width=1000&hide_border=true&hide=pascal,python" /></p>
 <!-- I stole this README design from https://github.com/egebalci and I didn't even look at the markdown :P -->
 
 # 💻 Tech Stack:
